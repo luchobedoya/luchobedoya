@@ -4,7 +4,7 @@ My name is Luis Bedoya. I am a geek🔭 of technology and programming and this i
 ```ts
 const Lucho_Bedoya = {
   code: ["Javascript", "Typescript", "HTML", "CSS", C#],
-  tools: [Angular, Node, Styled-Components, Karma ,NetCore, Jest, AWS]
+  tools: [Angular, Node, Styled-Components, Karma ,NetCore, Jest, AWS, Module Federation]
   architecture: ["clean architecture", "MVC"],
   Library: [Bootstrap, PrimeNg, Angular Material, Tailwind], 
   preprocessor: ["SASS"],
