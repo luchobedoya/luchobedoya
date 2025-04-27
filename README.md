@@ -6,7 +6,7 @@ const Lucho_Bedoya = {
   code: ["Javascript", "Typescript", "HTML", "CSS", C#],
   tools: [Angular, Node, Styled-Components, Karma ,NetCore, Jest, AWS]
   architecture: ["clean architecture", "MVC"],
-  Library: [Bootstrap, PrimeNg, Angular Material], Tailwind,
+  Library: [Bootstrap, PrimeNg, Angular Material, Tailwind], 
   preprocessor: ["SASS"],
   DB: [Microsoft SQL Server, Mongo DB],
   learning: [Flutter, NestJS]
